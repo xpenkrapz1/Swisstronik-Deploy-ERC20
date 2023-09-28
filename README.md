@@ -7,8 +7,8 @@ Transfer at least 1 of your ERC20 tokens to 0x16af037878a6cAce2Ea29d39A3757aC2F6
 
 ### Token & SC
 ```
-Name   : ARAPZZ
-Symbol : ARPZ
+Name   : ZKMUZLE
+Symbol : ZKML
 ```
 ```
 SC : 0x43E7B54bdC6fd50c91a8C874C759ecbe5E42E7b7
